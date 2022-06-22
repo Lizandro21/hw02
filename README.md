@@ -1,16 +1,16 @@
 # Personal Portfolio
 ---
-This showed the updated website with the working links at the top, I was having trouble when I clicked one of them but after some debugging I fixed the issue and when clicked it took me down to where it was suppose to go.
+Inside the master branch I have all the code inside the index file on how I made my portfolio. It also includes the assets folder which has my css file and my images.
 ---
-New ALT attributes were added for every image and background image explaining what the imaage represents on a metphorical level and what it literally shows word for word.
+I included the first week homework as one of my works done. I also included two homework videos I did a few years back for my freshman year of high school. Those were both as my media showcase.
 ---
-Changed all the divs to make it sematic code and be easier to comprehend and read when going over the code.
+I decided to go with a teal to show my favorite color.
 ---
-The Horiseon website is fully opperational and working now. It is comprehensive with the semantics, all the links working properly on the nav bar. All the images have ALT attributes as well as the background images explaining everything.
+All links are working and send you to the proper place. All nav links send you down to the right spot as well. I added contacts at the bottom as well for my github and my email.
 ---
 
 ---
-[Horiseon](https://lizandro21.github.io/homework-01/)
+[Portfolio](https://lizandro21.github.io/hw02/)
 
 This is the link to the working website.
 ---
